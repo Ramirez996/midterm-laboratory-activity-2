@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/midterm-laboratory-activity-2/static/css/main.132b4be5.css",
+    "main.js": "/midterm-laboratory-activity-2/static/js/main.6eee7e41.js",
+    "static/js/453.adce1021.chunk.js": "/midterm-laboratory-activity-2/static/js/453.adce1021.chunk.js",
+    "index.html": "/midterm-laboratory-activity-2/index.html",
+    "main.132b4be5.css.map": "/midterm-laboratory-activity-2/static/css/main.132b4be5.css.map",
+    "main.6eee7e41.js.map": "/midterm-laboratory-activity-2/static/js/main.6eee7e41.js.map",
+    "453.adce1021.chunk.js.map": "/midterm-laboratory-activity-2/static/js/453.adce1021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132b4be5.css",
+    "static/js/main.6eee7e41.js"
+  ]
+}
