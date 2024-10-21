@@ -8,7 +8,7 @@ function Home() {
       <Row className="justify-content-center">
         <Col md={8} className="text-center">
           <h1 className="mb-4">Welcome to My Profile!</h1>
-          <p className="lead">Here, you can explore more about me and my skills. Enjoy your visit!</p>
+          <p className="lead">Aspiring to be a good programmer. Enjoy your visit!</p>
         </Col>
       </Row>
     </Container>
